@@ -1,5 +1,5 @@
 # animation_sample_2
-https://progriro.github.io/animation_sample_2/
+https://shin81zzz.github.io/animation_sample_2
 
 rotateX(), rotateY(), rotateZ()によって描かれるcssアニメーションです。
 
